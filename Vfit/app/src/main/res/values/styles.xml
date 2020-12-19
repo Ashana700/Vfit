@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ex_1">
+        <item name="android:textSize">
+            28sp
+        </item>
+        <item name="android:textColor">
+            #242424
+        </item>
+
+    </style>
+    <style name="ex_2">
+        <item name="android:textSize">
+            18sp
+        </item>
+        <item name="android:textColor">
+            #242424
+        </item>
+
+    </style>
+
+</resources>
