@@ -6,4 +6,8 @@
     <string name="main_feed">Feed</string>
     <string name="main_exercise">Exercise</string>
     <string name="main_connect">Connect</string>
+    <string name="feed">feed</string>
+    <string name="exercise">exercise</string>
+    <string name="connect">connect</string>
+    <string name="profile">profile</string>
 </resources>

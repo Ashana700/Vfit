@@ -9,7 +9,8 @@
         android:id="@+id/feed"
         android:name="com.example.vfit.Feed"
         android:label="fragment_feed"
-        tools:layout="@layout/fragment_feed" />
+        tools:layout="@layout/fragment_feed"
+        />
     <fragment
         android:id="@+id/exercise"
         android:name="com.example.vfit.Exercise"
